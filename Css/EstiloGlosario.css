@@ -1,0 +1,139 @@
+
+
+
+body {
+      position: relative; 
+  }
+  
+
+#Competenciastransversales {
+    padding-top:60px;
+    height:1300px;
+    color: black; 
+    background-color: #DEE4F9;
+    background-color: white;
+}
+
+
+#Desarrolloweb {
+    padding-top:60px;
+    height:1300px;
+    color: black; 
+    background-color: #f9f4ed;
+    background-color: white;
+}
+
+
+#aprincipal:hover{
+	background-color:rgba(255, 255, 255, 0.9);
+	color:black;
+}
+
+ 
+.pseccion1 {
+	color:black;
+	
+	
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+	background-color:rgba(100, 0, 0, 0.1);
+	color:black;
+	
+}
+.navbar-dark .navbar-nav .nav-link:hover {
+	background-color:rgba(255, 255, 255, 0.9);
+	color:black;
+		
+}
+
+
+.conceptosweb {
+	padding:2%;
+	text-align:justify;
+	
+}
+
+.conceptosubtitulo {
+	font-weight:bold;
+    font-size: 18px;
+    font-family: arial;
+	
+	
+}
+
+
+.conceptosweb{
+	margin-bottom:5%;
+	padding:2%;
+	margin-left:10%;
+	margin-right:10%;
+	background-color:rgba(160,208,214, 0.3);
+    background-color:rgba(229,218,229, 0.3);
+	width:auto;
+	height:auto;
+	align:center;
+	text-align:justify;
+}
+
+.conceptostransversales {
+	margin-bottom:5%;
+	padding:2%;
+	margin-left:10%;
+	margin-right:10%;
+	background-color:rgba(160,208,214, 0.3);
+    background-color:rgba(229,218,229, 0.3); 
+	width:auto;
+	height:auto;
+	align:center;
+	text-align:justify;
+	
+	
+}	
+
+
+.hsecciones {
+    margin-top: 10px;
+}
+
+
+.conceptosubtitulo {
+    
+    font-style: italic;
+}
+
+
+
+@media screen and (max-width: 700px) {
+.conceptostransversales {
+	font-size:12px;
+}
+	
+}
+
+
+
+@media screen and (max-width: 412px) {
+	
+.conceptostransversales{
+	font-size:10px;
+    
+}
+    
+#Competenciastransversales{
+        height: 1600px;
+    }    
+	
+.conceptosweb {
+	font-size:10px;
+}
+	
+}
+
+
+
+
+  
+	
+
+

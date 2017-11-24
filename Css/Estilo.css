@@ -1,0 +1,575 @@
+
+body {
+      position: relative; 
+  }
+  
+#navprincipal {
+	z-index:10000;
+	
+}
+
+#textvideo {
+	position:absolute;
+	z-index:9999;
+	margin-top:15%;
+	font-weight:bold;
+}
+  
+#section1 {
+	padding-top:60px;
+	height:400px;
+	color: black; 
+	background-color:white;
+	margin-top:0px;
+	
+}
+
+
+#section2 {
+	padding-top:60px;
+	height:2600px;
+	color: black; 
+	background-color:rgba(255, 255, 255, 0.9);
+
+	}
+
+
+	
+
+	
+#section3 {
+	padding-top:60px;
+	height:auto;
+	color: black; 
+	background-color: #F8E0F7;
+    background-color: white;
+    
+	}
+
+
+.hsecciones {
+	margin-left:;
+	text-align:center;
+	font-family:Arial;
+	font-size:45px;
+	margin-bottom:2%;
+	background-size:auto;
+	
+	
+}
+
+.hsecciones:hover {
+	color: gray;
+	
+}
+
+  
+#divintroduccion{
+	margin-top:15px;
+	margin-bottom:5%;
+	padding:2%;
+	margin-left:10%;
+	margin-right:10%;
+	background-color:rgba(160,208,214, 0.3);
+    background-color: white;
+	width:auto;
+	height:auto;
+	align:center;
+	text-align:justify;
+	
+	
+	
+}
+
+#aprincipal:hover{
+	background-color:rgba(255, 255, 255, 0.9);
+	color:black;
+}
+
+ 
+.pseccion1 {
+	color:black;
+	
+	
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+	background-color:rgba(100, 0, 0, 0.1);
+	color:black;
+	
+}
+.navbar-dark .navbar-nav .nav-link:hover {
+	background-color:rgba(255, 255, 255, 0.9);
+	color:black;	
+}
+
+
+
+.jumbotron-fluid{
+	margin-bottom:0;
+	background-color:black;
+	color:white;
+	
+}
+
+
+#ocultarcurriculum {
+	
+	margin-left:40%;
+	margin-bottom:0px;
+	
+
+}
+
+
+#sabanacurriculum{
+	background-color:black;
+	background: rgba(0, 0, 0, 0.9);
+	
+}
+
+
+#Curriculum{
+	background-color:white;
+	width:80%;
+	height:1000px;
+	display:none;
+	z-index:9999;
+	position: relative;
+	margin-left:10%;
+	border: 1px solid;
+	border-color:black;
+	filter: blur(0px);
+	
+
+
+	
+}
+
+
+
+
+#Curriculumfoto{
+	background:url("fcurriculum.jpg") no-repeat left;
+	height:17%;
+	width:20%;
+	margin-left:2%;
+	margin-right:2%;
+	display:inline-block;
+	float:left;
+	margin-top:7%;
+	
+	
+	
+	
+	
+	
+	
+}
+
+#Datospersonales {
+	margin-left:25%;
+	height:25%;
+	width:70%;
+	padding-top:3%;
+		
+}
+
+
+.pcurriculum {
+	line-height:10px;
+	
+}
+
+.pcurriculum2 {
+	
+	
+	
+}
+
+.licurriculum {
+	line-height:10px;
+}
+
+#Estudiosrealizados {
+	margin-left:2%;
+	height:18%;
+	width:93%;
+	
+}
+
+#Experiencialaboral{
+	margin-left:2%;
+	height:20%;
+	width:93%;
+	
+}
+
+#Habilidades {
+	margin-left:2%;
+	height:13%;
+	width:93%;
+	
+}
+
+#Referenciaspersonales {
+	margin-left:2%;
+	height:15%;
+	width:93%;
+	
+}
+
+.hcurriculum {
+	background:black;
+	color:white;
+}
+
+#divexperiencia {
+	
+	margin-bottom:5%;
+	padding:2%;
+	margin-left:10%;
+	margin-right:10%;
+	background-color:rgba(160,208,214, 0.3);
+    background-color: white;
+	width:auto;
+	height:auto;
+	align:center;
+	text-align:justify;
+	
+	
+}
+
+
+#divexperiencia2 {
+	
+	margin-bottom:5%;
+	padding:2%;
+	margin-left:10%;
+	margin-right:10%;
+	background-color:rgba(160,208,214, 0.3);
+    background-color: white;
+	width:auto;
+	height:auto;
+	align:center;
+	text-align:justify;	
+}
+
+#divactividades {
+	margin-bottom:5%;
+	padding:2%;
+	margin-left:5%;
+	margin-right:5%;
+	background-color:rgba(160,208,214, 0.3);
+    background-color: white;
+	width:90%;
+	height:auto;
+	align:center;
+	text-align:justify;	
+
+}
+
+#divactividades2 {
+
+	padding:2%;
+	margin-left:5%;
+	margin-right:5%;
+	background-color:rgba(160,208,214, 0.3);
+    background-color: white;
+	width:90%;
+	height:auto;
+	align:center;
+	text-align:justify;	
+
+}
+
+
+
+
+.pdivexperiencia {
+	font-size:1em;
+	
+}
+
+.figcaptionactividades {
+	background-color:black;
+	padding:1%;
+	color:white;
+	margin-bottom:10px;
+}
+
+
+.card{
+	border:none;
+	
+}
+
+.card-header-1 {
+	padding:0.50rem 1.25rem;
+	background-color:rgba(0, 0, 0, 0.9);
+    background-color: white;
+	color:white;
+    border-bottom: 1px solid;
+    border-color: black;
+	
+}
+
+.card-body-1 {
+	height:200px;
+	background-color:rgba(39, 38, 41, 0.9);
+    background-color: black;
+	color:white;
+    border-bottom: 1px solid;
+    border-color: black;
+    
+    
+	
+}
+
+
+
+
+
+mark {
+	background-color:#f7da44;
+	text-decoration:underline;	
+}
+
+
+
+
+#modalmensaje {
+	margin-top:120px;
+	border-color:black;
+	color:black;
+	
+}
+
+#botonmensaje {
+	float:right;
+	margin-right:6%;
+	margin-bottom:2%;
+	position:relative;
+	
+}
+
+#cardfooter{
+    position:relative;
+	bottom:0;
+	left:0;
+    width: 100%;
+   
+	
+	
+}
+
+.afooter{
+    padding-right: 1%;
+}
+
+.listafooter{
+    margin-left: 3%;
+    margin-top: 5%;
+    
+}
+
+#fichasebastian{
+	display:none;
+	border:2px solid;
+	border-color:white;
+	position:absolute;
+	margin-left:28%;
+	margin-top:-100px;
+	z-index:9999;
+}
+
+#ficharita{
+	display:none;
+	border:2px solid;
+	border-color:white;
+	position:absolute;
+	margin-left:28%;
+	margin-top:-100px;
+	z-index:9999;
+}
+
+#cartapresentacion {
+	background-color:white;
+	height:9%;
+	width:50%;
+	position:absolute;
+	margin-top:-35%;
+	margin-left:15%;
+	border:5px solid;
+	border-color:black;
+	display:none;
+	z-index:9999;
+    overflow: scroll;
+}
+
+#cartaheading {
+	margin-top:3%;
+	margin-right:4%;
+	float:right;
+	display:inline-block;
+	
+}
+
+#cartaheading2 {
+	margin-top:3%;
+	margin-left:4%;
+	float:left;
+	display:inline-block;
+	
+}
+
+#cartabody {
+	padding-right:4%;
+    padding-left:4%;
+    display: inline-block;
+	
+}
+
+#contenedor{
+	position:fixed;
+	left:0;
+	top:0;
+	width:100%;
+	height:100%;
+	background-color:rgba(0, 0, 0, 0.8);
+	display:none;
+	z-index:9998;
+	
+}
+
+.dropdown-menu{
+	background-color:#2E2E2E;
+	
+}
+.dropdown-item{
+	color:rgba(255, 255, 255, 0.5);
+}
+
+.listafrases {
+    list-style-type: circle;
+}
+
+.jumbotron{
+  position: relative;
+ 
+  
+}
+
+#video-background { 
+  position: relative;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  overflow: hidden; 
+  width:100%;
+  
+}
+
+
+.collapsed {
+	color:black;
+	
+}
+
+.collapsed:hover{
+	background-color:gray;
+	color:white;
+    text-decoration: none;
+	
+}
+
+
+.scrollup{
+    width:80px;
+    height:80px;
+    opacity:0.3;
+    position:fixed;
+    bottom:100px;
+    right:100px;
+    display:none;
+    text-indent:-9999px;
+    background: url("icon_top.png") no-repeat;
+}
+
+
+@media screen and (max-width: 720px) {
+.secciones {
+	font-size:12px;
+}
+     
+	
+}
+
+
+
+
+
+
+@media screen and (max-width: 412px) {
+.secciones {
+	font-size:10px;
+}
+.pcurriculum {
+	font-size:8px;
+}
+.pcurriculum2 {
+	font-size:8px;
+}
+.hcurriculum{
+	font-size:10px;
+}			
+h3 {
+	font-size:18px;
+}	
+#Curriculumfoto {
+	display: none;
+} 
+#vercurriculum {
+font-size:10px;	
+}  
+#ocultarcurriculum {
+font-size:8px;	  
+}
+#section2 {
+	height:3900px;
+}
+.afooter {
+	font-size:10px;
+}
+ 
+
+#Datospersonales {
+	margin-left:2%;
+	width:93%;
+}
+.pcurriculum{
+	margin-left:4%;
+}
+
+#botonmensaje {
+	font-size:8px;	
+}
+
+#videofabian{
+	width:256px;
+	height:144px;
+}
+
+.hsecciones{
+     font-size: 30px;   
+    }
+.display-3{
+    font-size:25px;
+    }   
+.lead {
+    font-size:15px;
+    }    
+
+
+}

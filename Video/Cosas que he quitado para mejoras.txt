@@ -1,0 +1,27 @@
+Jumbotrom
+
+
+
+<div id="jumbo" class="jumbotron jumbotron-fluid">
+  <div class="container">
+    <h1 class="display-3">Bienvenidos</h1>
+    <p class="lead">"Daría la mitad de lo que sé por la mitad de lo que ignoro."</p>
+  </div>
+</div>
+
+
+
+#jumbo{
+	background:url("playa.jpg") no-repeat left;
+	
+}
+
+--------------------------------------------------------------------------
+
+
+
+Video Insertado de fabia Coito
+			<video id="videofabian" controls>
+			  <source src="Video\Fabiancoito.webm" >
+			  Tu navegador no implementa el elemento <code>video</code>.
+			</video><br><br>
