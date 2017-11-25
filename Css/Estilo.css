@@ -491,11 +491,14 @@ mark {
     opacity:0.3;
     position:fixed;
     bottom:100px;
-    right:100px;
+    right:10px;
     display:none;
     text-indent:-9999px;
-    background: url("icon_top.png") no-repeat;
+    background: url("icon_top2.png") no-repeat;
+    z-index: 100000;
 }
+
+
 
 
 @media screen and (max-width: 720px) {
