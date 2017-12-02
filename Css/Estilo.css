@@ -78,7 +78,7 @@ body {
 	margin-right:10%;
 	background-color:rgba(0,0,0, 0.9);
 	width:auto;
-	height:300px;
+	height:auto;
 	align:center;
 	text-align:justify;
 	
@@ -560,6 +560,10 @@ mark {
 
 
 @media screen and (max-width: 412px) {
+#divintroduccion {
+        height: auto;
+    }    
+    
 .secciones {
 	font-size:10px;
 }
@@ -585,7 +589,7 @@ font-size:10px;
 font-size:8px;	  
 }
 #section2 {
-	height:3900px;
+	height:auto;
 }
 .afooter {
 	font-size:10px;
