@@ -8,7 +8,7 @@ $(document).ready(function () {
 		
 		
 	$("#vercurriculum").click(function() {
-		alert("Usted es el visitante " + contador_visitas + " de esta documento.");
+		alert("Usted es el visitante " + contador_visitas + " de éste documento.");
 	});	
 	
 	
