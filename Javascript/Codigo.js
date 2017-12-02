@@ -96,8 +96,16 @@ $(document).ready(function () {
         });
 	
 	
+	$("#cambiaaingles").click(function(){
+    $("#pseccion1").html("Hola Cambio el Texto");
+ });
 	
-	
+    
+    
+    
+    
+    
+    
 	
 	
 	

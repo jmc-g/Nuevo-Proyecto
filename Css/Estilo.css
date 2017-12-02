@@ -17,7 +17,7 @@ body {
   
 #section1 {
 	padding-top:60px;
-	height:400px;
+	height:auto;
 	color: black; 
 	background-color:white;
 	margin-top:0px;
@@ -70,8 +70,7 @@ body {
 	padding:2%;
 	margin-left:10%;
 	margin-right:10%;
-	background-color:rgba(160,208,214, 0.3);
-    background-color: white;
+	background-color:rgba(0,0,0, 0.9);
 	width:auto;
 	height:auto;
 	align:center;
@@ -88,7 +87,7 @@ body {
 
  
 .pseccion1 {
-	color:black;
+	color:white;
 	
 	
 }
