@@ -82,8 +82,18 @@ body {
 	align:center;
 	text-align:justify;
 	
-	
-	
+}
+
+#divintroduccion2{
+
+	padding:2%;
+	margin-left:10%;
+	margin-right:10%;
+	background-color:white;
+	width:auto;
+	height:auto;
+	align:center;
+	text-align:justify;
 }
 
 #aprincipal:hover{
@@ -516,6 +526,21 @@ mark {
     
     
 }
+
+
+
+.alert-primary{
+	position:fixed;
+	z-index:1000;
+	margin-top:20px;
+	border-radius:50px;
+    display: none;
+	
+	
+}
+
+
+
 
 
 

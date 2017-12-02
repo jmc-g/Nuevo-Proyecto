@@ -114,6 +114,32 @@ $(document).ready(function () {
         b.style.backgroundColor = "black"
         
  });
+    
+    
+    
+    
+$("#enviadatos").click(function () {
+		var mail = $("#correo").val();
+		var mensaje = $("#mensajecliente").val();  
+    
+    
+    if (($("#correo").val().length == 0)) {
+			$("#validadorcorreo").fadeIn("slow");
+			return false;
+		}
+            else {$("#validadorcorreo").fadeOut("slow");	
+		         }
+    
+    
+    if (($("#mensajecliente").val().length == 0)) {
+			$("#validadormensaje").fadeIn("slow");
+			return false;
+		}
+            else {$("#validadormensaje").fadeOut("slow");	
+		         }
+    
+    
+});
 	
     
     
