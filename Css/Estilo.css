@@ -63,16 +63,22 @@ body {
 	
 }
 
+
+#dividioma {
+    margin-left: 45%;
+    
+}
+
   
 #divintroduccion{
 	margin-top:15px;
-	margin-bottom:5%;
+    margin-bottom: 10px;
 	padding:2%;
 	margin-left:10%;
 	margin-right:10%;
 	background-color:rgba(0,0,0, 0.9);
 	width:auto;
-	height:auto;
+	height:300px;
 	align:center;
 	text-align:justify;
 	
