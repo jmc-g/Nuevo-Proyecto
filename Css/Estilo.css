@@ -535,8 +535,13 @@ mark {
 	margin-top:20px;
 	border-radius:50px;
     display: none;
-	
-	
+		
+}
+
+#pjumbotron {
+    margin-left: 60%;
+    font-size: 1.5rem;
+    
 }
 
 
